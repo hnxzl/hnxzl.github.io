@@ -209,6 +209,8 @@ button:hover {
 /* Left & Right Post */
 
 .right-image-post {
+    justify-content: center;
+    align-items: center;
     margin-top: 60px;
     padding-top: 60px;
     border-top: 2px solid rgba(250, 250, 250, 0.1);
