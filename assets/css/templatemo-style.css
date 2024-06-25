@@ -367,6 +367,7 @@ section.my-work .section-heading {
     position: relative;
     width: 100%;
     margin: auto;
+    justify-content: c;
 }
 
 .isotope-toolbar input[type="radio"] {
@@ -395,6 +396,8 @@ section.my-work .section-heading {
     width: 100%;
     margin-left: auto;
     margin-right: auto;
+    flex-wrap: wrap;
+    display: flex;
     justify-content: center;
 }
 
